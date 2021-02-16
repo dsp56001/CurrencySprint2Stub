@@ -1,0 +1,1 @@
+# CurrencySprint2Stub
